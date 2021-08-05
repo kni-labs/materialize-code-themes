@@ -1,0 +1,72 @@
+/* preview: https://codepen.io/dbox/pen/Vwbxdro */
+
+.hljs {
+  display: block;
+  overflow-x: auto;
+  padding: 1.5em;
+  border-radius: 5px;
+  background: #000;
+  font-family: "Fira Code", monospace;
+  font-weight: normal;
+}
+
+.hljs-built_in,
+.hljs-selector-tag,
+.hljs-section,
+.hljs-link {
+  color: #61d1e9;
+}
+
+.hljs-keyword {
+  color: #4afada;
+}
+
+.hljs,
+.hljs-subst {
+  color: #f8f8f2;
+}
+
+.hljs-title {
+  color: #50fa7b;
+}
+
+.hljs-string,
+.hljs-meta,
+.hljs-name,
+.hljs-type,
+.hljs-attr,
+.hljs-symbol,
+.hljs-bullet,
+.hljs-addition,
+.hljs-variable,
+.hljs-template-tag,
+.hljs-template-variable {
+  color: #f365ff;
+}
+
+.hljs-comment,
+.hljs-quote,
+.hljs-deletion {
+  color: #686170;
+}
+
+.hljs-keyword,
+.hljs-selector-tag,
+.hljs-literal,
+.hljs-title,
+.hljs-section,
+.hljs-doctag,
+.hljs-type,
+.hljs-name,
+.hljs-strong {
+  font-weight: bold;
+}
+
+.hljs-literal,
+.hljs-number {
+  color: #bd93f9;
+}
+
+.hljs-emphasis {
+  font-style: italic;
+}
